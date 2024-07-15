@@ -1,2 +1,2 @@
 # Simpsons-Character-Classifier-using-OpenCV
-Explore Computer Vision techniques with OpenCV to classify "The Simpsons" characters. Includes image preprocessing and advanced neural network models for developers and researchers keen on practical CV applications.
+This project explores Computer Vision techniques using OpenCV to classify characters from the popular TV series "The Simpsons". From image preprocessing to advanced neural network architectures, the repository provides comprehensive tools for building and deploying the model.
